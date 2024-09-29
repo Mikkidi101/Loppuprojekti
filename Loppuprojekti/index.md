@@ -14,7 +14,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ##### Header five
 ###### Header six
 
-####Colombian Symbolism in One Hundred Years of Solitude
+#### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -55,3 +55,30 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
+## **Lists**
+Tehtävä 1 
+* Flour
+* Cheese
+* Tomatoes
+
+Tehtävä 2
+1. Cut the cheese
+2. Slice the tomatoes
+3. Rub the tomatoes in flour
+
+Tehtävä 3
+* Azalea (_Ericaceae Rhododendron_)
+* Chrysanthemum (_Anthemideae Chrysanthemum_)
+* Dahlia (_Coreopsideae Dahlia_)
+
+Tehtävä 4
+* Calculus
+  * A professor
+  * Has no hair
+  * Often wears green
+* Castafiore
+ * An opera singer
+ * Has white hair
+   * Is possibly mentally unwell
+
+Tehtävä 5

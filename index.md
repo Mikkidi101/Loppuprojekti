@@ -142,3 +142,4 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
  ### **Sama kuin "Lists" osion Tehtävässä 5. En keksinyt useammankaan yrityksen jälkeen sitä muotoa mitä haettiin, mutta tässä on yrityksiäni. "soft breaks" muotoa osasin siis kyllä käyttää:)!** 
 
 hei
+miten menee

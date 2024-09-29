@@ -109,11 +109,11 @@ _Tehtävä 5_
 
 2. Slice the tomatoes.
   Be careful when holding the knife.
-  For more help on tomato slicing, see Thomas Jefferson's      seminal essay _Tom Ate Those_.
+  For more help on tomato slicing, see Thomas Jefferson's      seminal essay _Tom Ate Those_.  
+  
+### **EN täysin ymmärtänyt tässä tehtävän antoa, mutta tässä näkemykseni siitä!**  
 
- ### **EN täysin ymmärtänyt tässä tehtävän antoa, mutta tässä näkemykseni siitä!**
-
- ## **Paragraphs:**
+## **Paragraphs**
 
 _Tehtävä 1_  
 We pictured the meek mild creatures where   
@@ -137,7 +137,7 @@ _Tehtävä 2_
 
 
 Pour a gallon of milk into the bowl.  
-Basically, take the same guidance as above: don't be messy, but if you are, clean it up!   
-
- ### **Sama kuin "Lists" osion Tehtävässä 5. En keksinyt useammankaan yrityksen jälkeen sitä muotoa mitä haettiin, mutta tässä on yrityksiäni. "soft breaks" muotoa osasin siis kyllä käyttää:)!** 
+Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+  
+### **Sama kuin "Lists" osion Tehtävässä 5. En keksinyt useammankaan yrityksen jälkeen sitä muotoa mitä haettiin, mutta tässä on yrityksiäni. "soft breaks" muotoa osasin siis kyllä käyttää:)!** 
  

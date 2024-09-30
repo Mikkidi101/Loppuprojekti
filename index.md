@@ -104,14 +104,15 @@ _Tehtävä 4_
    * Is possibly mentally unwell
 
 _Tehtävä 5_  
-1. Cut the cheese.
-  Make sure that the cheese is cut into little triangles.
-
-2. Slice the tomatoes.
-  Be careful when holding the knife.
-  For more help on tomato slicing, see Thomas Jefferson's      seminal essay _Tom Ate Those_.  
+1. Cut the cheese
   
-### **EN täysin ymmärtänyt tässä tehtävän antoa, mutta tässä näkemykseni siitä!**  
+ Make sure that the cheese is cut into little triangles.
+
+2. Slice the tomatoes
+   
+ Be careful when holding the knife.
+ 
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
 
 ## **Paragraphs**
 

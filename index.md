@@ -140,5 +140,5 @@ _Tehtävä 2_
 Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
   
-### **Sama kuin "Lists" osion Tehtävässä 5. En keksinyt useammankaan yrityksen jälkeen sitä muotoa mitä haettiin, mutta tässä on yrityksiäni. "soft breaks" muotoa osasin siis kyllä käyttää:)!** 
+### **En keksinyt useammankaan yrityksen jälkeen sitä muotoa mitä haettiin, mutta tässä on yrityksiäni. "soft breaks" muotoa osasin siis kyllä käyttää:)!** 
  
